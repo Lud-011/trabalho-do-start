@@ -1,5 +1,4 @@
 # trabalho-do-start 2
-# estou colocando diretamente aqui o código, se tiver algum problema notifique-me
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
